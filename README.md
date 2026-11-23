@@ -4,7 +4,7 @@ I'm a Computer Science Master's student at Hochschule Bremen and a full-stack de
 
 I'm looking for a **working student role** in software development in Bremen or remote.
 
-**[Portfolio](https://oussama-ben-abid.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/oussama-ben-abid/)** · **[Email](mailto:oben-abid@stud.hs-bremen.de)**
+**[Portfolio](https://oussama-ben-abid.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/oussama-ben-abid/)** · **[oussamaabid52@gmail.com](mailto:oussamaabid52@gmail.com)**
 
 ### Projects
 
@@ -16,6 +16,7 @@ I'm looking for a **working student role** in software development in Bremen or 
 | **[Living Smarter](https://github.com/oussama-abid/living-smarter)** | LLM voice assistant for smart homes, the prototype behind a research paper at Hochschule Bremen. | Python, Google Gemini, pytest |
 | **[Dayventure](https://github.com/oussama-abid/MCI-Nearby-Activity-Finder)** | Team project: a mobile app that suggests activities by location, weather and group. | Flutter, Supabase |
 | **[MediBooker](https://github.com/oussama-abid/MediBooker)** · [API](https://github.com/oussama-abid/MediBooker-ApI) | Team project: online appointment booking for medical practices, with real-time updates over WebSockets. | Angular, Node.js, Express, MySQL |
+| **[Thesis library](https://github.com/oussama-abid/Intuitiv-Interactiv)** | Bachelor final project at Intuitiv Groupe: a digital library for final theses with a web app, REST API and Flutter app. | Laravel, Vue.js, Flutter, MySQL |
 
 ### Tech
 
