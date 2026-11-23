@@ -11,9 +11,11 @@ I'm looking for a **working student role** in software development in Bremen or 
 | Project | What it is | Stack |
 |---|---|---|
 | **[StudyMind](https://github.com/oussama-abid/studymind)** · [live demo](https://studymind-neon.vercel.app) | AI study assistant that answers questions from your own lecture PDFs and cites the pages. Answers in 0.6 s, 110 tests, automatic deployment to Azure and Vercel. | Python, FastAPI, React, PostgreSQL + pgvector, Docker |
+| **[Alashi](https://alashi.online)** (live) | Logistics platform for a shipping company, built as a freelancer and still used in production: shipment, merchant and employee management, invoices, tracking with automatic WhatsApp updates. | Laravel, Vue.js, MySQL, Twilio |
 | **[ShipFlow](https://github.com/oussama-abid/shipflow)** (in progress) | Event-driven logistics backend: microservices that never lose or double-process an event. | Java, Spring Boot, RabbitMQ, Angular |
 | **[Living Smarter](https://github.com/oussama-abid/living-smarter)** | LLM voice assistant for smart homes, the prototype behind a research paper at Hochschule Bremen. | Python, Google Gemini, pytest |
 | **[Nearby Activity Finder](https://github.com/oussama-abid/MCI-Nearby-Activity-Finder)** | Team project: a mobile app that suggests activities by location, weather and group. | Flutter, Supabase |
+| **[MediBooker](https://github.com/oussama-abid/MediBooker)** | Team project: online appointment booking for medical practices, with real-time updates over WebSockets. | Angular, TypeScript, Socket.IO |
 
 ### Tech
 
