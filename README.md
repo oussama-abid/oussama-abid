@@ -1,29 +1,30 @@
 ## Hi, I'm Oussama 👋
 
-I'm a Computer Science Master's student at Hochschule Bremen and a full-stack developer. I build web applications from the database to automated deployment, mostly with Java, Spring Boot, Python and TypeScript.
+Computer Science Master's student (Software Engineering) at Hochschule Bremen, expected to graduate in 2027. I work across the full stack, from data modelling and REST APIs to modern web frontends, CI/CD and cloud deployment, with a focus on Java (Spring Boot), Python (FastAPI) and TypeScript (React, Next.js, Angular), as well as integrating large language models into real applications.
 
-I'm looking for a **working student role** in software development in Bremen or remote.
+Open to **working student roles** in software development in Bremen or remote (up to 20 hours a week).
 
 **[Portfolio](https://oussama-ben-abid.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/oussama-ben-abid/)** · **[oussamaabid52@gmail.com](mailto:oussamaabid52@gmail.com)**
 
 ### Projects
 
-| Project | What it is | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| **[StudyMind](https://github.com/oussama-abid/studymind)** · [live demo](https://studymind-neon.vercel.app) | AI study assistant that answers questions from your own lecture PDFs and cites the pages. Answers in 0.6 s, 110 tests, automatic deployment to Azure and Vercel. | Python, FastAPI, React, PostgreSQL + pgvector, Docker |
-| **[Alashi](https://alashi.online)** (live) | Logistics platform for a shipping company, built as a freelancer and still used in production: shipment, merchant and employee management, invoices, tracking with automatic WhatsApp updates. | Laravel, Vue.js, MySQL, Twilio |
-| **[ShipFlow](https://github.com/oussama-abid/shipflow)** (in progress) | Event-driven logistics backend: microservices that never lose or double-process an event. | Java, Spring Boot, RabbitMQ, Angular |
-| **[Living Smarter](https://github.com/oussama-abid/living-smarter)** | LLM voice assistant for smart homes, the prototype behind a research paper at Hochschule Bremen. | Python, Google Gemini, pytest |
-| **[Dayventure](https://github.com/oussama-abid/MCI-Nearby-Activity-Finder)** | Team project: a mobile app that suggests activities by location, weather and group. | Flutter, Supabase |
-| **[MediBooker](https://github.com/oussama-abid/MediBooker)** · [API](https://github.com/oussama-abid/MediBooker-ApI) | Team project: online appointment booking for medical practices, with real-time updates over WebSockets. | Angular, Node.js, Express, MySQL |
-| **[Thesis library](https://github.com/oussama-abid/Intuitiv-Interactiv)** | Bachelor final project at Intuitiv Groupe: a digital library for final theses with a web app, REST API and Flutter app. | Laravel, Vue.js, Flutter, MySQL |
+| **[StudyMind](https://github.com/oussama-abid/studymind)** · [live demo](https://studymind-neon.vercel.app) | Retrieval-augmented generation app that answers questions strictly from uploaded lecture material, with page citations. Response time cut from 40 s to 0.6 s by benchmarking LLM providers; CI/CD with 110 automated tests and deployment to Azure and Vercel. | Python, FastAPI, React, TypeScript, PostgreSQL, pgvector, Docker |
+| **[Alashi](https://alashi.online)** (live) | Core system of a cross-border shipping and e-commerce platform, built independently as a freelancer and still in daily production use: admin dashboard, shipment tracking with automated WhatsApp notifications, invoicing. | Laravel, PHP, Vue.js, MySQL, Twilio API |
+| **[ShipFlow](https://github.com/oussama-abid/shipflow)** (in progress) | Event-driven microservices for logistics with a transactional outbox, idempotent consumers, a dead-letter queue and Testcontainers integration tests. | Java, Spring Boot, RabbitMQ, PostgreSQL, Angular |
+| **[Living Smarter](https://github.com/oussama-abid/living-smarter)** | Prototype for a research paper: a Gemini-based agent orchestrator that executes natural-language commands through tool calling; 100 % intent recognition in 36 test cases. | Python, Google Gemini API, pytest, Docker |
+| **[Dayventure](https://github.com/oussama-abid/MCI-Nearby-Activity-Finder)** | Team project: Flutter app recommending activities by location, live weather and group. My part: the app interface with an interactive map and marker clustering. | Flutter, Dart, Next.js, Supabase |
+| **[MediBooker](https://github.com/oussama-abid/MediBooker)** · [API](https://github.com/oussama-abid/MediBooker-ApI) | Team project: full-stack appointment booking for medical practices with real-time updates over WebSockets. | Angular, TypeScript, Node.js, Express, MySQL |
+| **[Thesis library](https://github.com/oussama-abid/Intuitiv-Interactiv)** | Bachelor final project at Intuitiv Groupe: digital library for theses with a Vue.js web app, a Laravel REST API and a Flutter app, including approval workflows. | Laravel, Vue.js, Flutter, MySQL |
 
 ### Tech
 
-**Backend:** Java, Spring Boot, Python, FastAPI, PHP, Laravel  
-**Frontend:** TypeScript, React, Angular, Next.js, Vue.js, Flutter  
-**Data:** PostgreSQL, pgvector, MySQL, SQLite  
-**AI:** LLM integration, RAG, multi-agent systems  
-**DevOps:** Docker, GitHub Actions, Azure, Vercel, Linux
+**Languages:** Java, Python, TypeScript, JavaScript, PHP, SQL, Dart  
+**Backend:** Spring Boot, FastAPI, Node.js, Express, Laravel, REST APIs  
+**Frontend and mobile:** React, Next.js, Angular, Vue.js, Tailwind CSS, Flutter  
+**AI:** retrieval-augmented generation, vector search, multi-agent systems, tool calling  
+**Data:** PostgreSQL, pgvector, MySQL, SQLite, Supabase  
+**Testing and DevOps:** pytest, Testcontainers, Vitest, Docker, GitHub Actions, Azure, Vercel, Linux
 
-Languages: Arabic, German (C1), French (C1), English
+Languages: Arabic (native), German (C1), French (C1), English
