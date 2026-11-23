@@ -2,7 +2,7 @@
 
 Computer Science Master's student (Software Engineering) at Hochschule Bremen, expected to graduate in 2027. I work across the full stack, from data modelling and REST APIs to modern web frontends, CI/CD and cloud deployment, with a focus on Java (Spring Boot), Python (FastAPI) and TypeScript (React, Next.js, Angular), as well as integrating large language models into real applications.
 
-Open to **working student roles** in software development in Bremen or remote (up to 20 hours a week).
+Open to **working student or part-time roles** in software development in Bremen or remote (up to 20 hours a week).
 
 **[Portfolio](https://oussama-ben-abid.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/oussama-ben-abid/)** · **[oussamaabid52@gmail.com](mailto:oussamaabid52@gmail.com)**
 
@@ -25,6 +25,7 @@ Open to **working student roles** in software development in Bremen or remote (u
 **Frontend and mobile:** React, Next.js, Angular, Vue.js, Tailwind CSS, Flutter  
 **AI:** retrieval-augmented generation, vector search, multi-agent systems, tool calling  
 **Data:** PostgreSQL, pgvector, MySQL, SQLite, Supabase  
-**Testing and DevOps:** pytest, Testcontainers, Vitest, Docker, GitHub Actions, Azure, Vercel, Linux
+**Testing and DevOps:** pytest, Testcontainers, Vitest, Docker, GitHub Actions (CI/CD), Azure, Vercel, Linux  
+**Methods:** Scrum, Kanban, pull requests and code reviews, clean code, architecture decision records
 
 Languages: Arabic (native), German (C1), French (C1), English
