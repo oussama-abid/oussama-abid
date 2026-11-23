@@ -15,7 +15,7 @@ I'm looking for a **working student role** in software development in Bremen or 
 | **[ShipFlow](https://github.com/oussama-abid/shipflow)** (in progress) | Event-driven logistics backend: microservices that never lose or double-process an event. | Java, Spring Boot, RabbitMQ, Angular |
 | **[Living Smarter](https://github.com/oussama-abid/living-smarter)** | LLM voice assistant for smart homes, the prototype behind a research paper at Hochschule Bremen. | Python, Google Gemini, pytest |
 | **[Nearby Activity Finder](https://github.com/oussama-abid/MCI-Nearby-Activity-Finder)** | Team project: a mobile app that suggests activities by location, weather and group. | Flutter, Supabase |
-| **[MediBooker](https://github.com/oussama-abid/MediBooker)** | Team project: online appointment booking for medical practices, with real-time updates over WebSockets. | Angular, TypeScript, Socket.IO |
+| **[MediBooker](https://github.com/oussama-abid/MediBooker)** · [API](https://github.com/oussama-abid/MediBooker-ApI) | Team project: online appointment booking for medical practices, with real-time updates over WebSockets. | Angular, Node.js, Express, MySQL |
 
 ### Tech
 
