@@ -4,7 +4,7 @@ Computer Science Master's student (Software Engineering) at Hochschule Bremen, e
 
 Open to **working student or part-time roles** in software development in Bremen or remote (up to 20 hours a week).
 
-**[Portfolio](https://oussama-ben-abid.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/oussama-ben-abid/)** · **[oussamaabid52@gmail.com](mailto:oussamaabid52@gmail.com)**
+**[Portfolio](https://oussama-ben-abid.me)** · **[LinkedIn](https://www.linkedin.com/in/oussama-ben-abid/)** · **[oussamaabid52@gmail.com](mailto:oussamaabid52@gmail.com)**
 
 ### Projects
 
